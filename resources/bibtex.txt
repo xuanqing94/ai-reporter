@@ -1,6 +1,6 @@
 @inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+  title={Investigating Heterogeneities of Live MesenchymalStromal Cells Using AI-based Label-free Imaging},
+  author={Sara Imboden, Xuanqing Liu, Brandon S. Lee, Marie C. Payne, Cho-Jui Hsieh, and Neil Y.C. Lin},
+  booktitle={In submission},
+  year={2020}
 }

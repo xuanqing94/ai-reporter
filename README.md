@@ -20,7 +20,7 @@ conda activate ai_reporter
 
 2. Second, install python packages
 ```bash
-pip install numpy scipy scikit-learn torch torchvision imageio tifffile imagecodec opencv-python
+pip install numpy scipy scikit-learn torch torchvision imageio tifffile imagecodecs opencv-python
 ```
 
 3. Then, install our software with

@@ -3,7 +3,9 @@
 
 ### Hardware requirements
 Recommended hardware: 2 X 2080Ti or higher, 64GiB memory or higher, CPU with >= 8 cores. 
+
 Nvidia CUDA version: >= 10.2
+
 Nvidia CUDNN version: >= 8.0
 
 ### Install

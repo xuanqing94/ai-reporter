@@ -1,11 +1,16 @@
-## <b>Webpage template</b>
+## AI Reporter
 
-This webpage template was made for a [colorful ECCV paper](http://richzhang.github.io/colorization/). See how the webpage looks [here](https://richzhang.github.io/webpage-template).
+### Install
+Our software is cross-platform, it will work on Linux (tested), Windows and macOS.
 
-To use this template, clone the repo:
-
+Install dependencies (with pip and anaconda or miniconda):
+```bash
+pip install numpy scipy scikit-learn torch torchvision imageio tifffile imagecodec
 ```
-git clone https://github.com/richzhang/webpage-template.git
+Then, install our software with
+```bash
+cd code
+pip install -e .
 ```
 
-Copy the contents into a `gh-pages` branch of a GitHub repo. That will automatically make a webpage under address [GITHUB_USERNAME.github.io/REPO_NAME](GITHUB_USERNAME.github.io/REPO_NAME).
+### Run our example

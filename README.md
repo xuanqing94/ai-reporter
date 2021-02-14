@@ -1,6 +1,11 @@
 ## Investigating Heterogeneities of Live Mesenchymal Stromal Cells Using AI-based Label-free Imaging
 
 
+### Hardware requirements
+Recommended hardware: 2 X 2080Ti or higher, 64GiB memory or higher, CPU with >= 8 cores. 
+Nvidia CUDA version: >= 10.2
+Nvidia CUDNN version: >= 8.0
+
 ### Install
 Our software is cross-platform, it will work on Linux (tested), Windows and macOS.
 

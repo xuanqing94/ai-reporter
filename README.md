@@ -29,3 +29,5 @@ bash train_example.sh
 
 ### Acknowledgement
 > We thank Takuya Matsumoto, Eri Harada, Alex Hofmann, Gregory R. Johnson and Roy Wallman for insightful discussions. This work was supported by the UCLA SPORE in Prostate Cancer grant (P50 CA092131), the Eli and Edythe Broad Center of Regenerative Medicine and Stem Cell Research at UCLA and California NanoSystems Institute at UCLA Planning Award grant and the National Science Foundation grant (IIS-1901527).
+
+> Source code is modified from [PyTorch-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)

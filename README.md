@@ -30,8 +30,14 @@ pip install -e .
 ```
 
 ### Run our example
+1. Training stage
 ```bash
-bash train_example.sh
+bash train.sh
+```
+
+2. After training, run inference code with
+```bash
+bash test.sh
 ```
 
 ### Acknowledgement

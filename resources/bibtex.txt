@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
+@inproceedings{Imboden2021Investigating,
   title={Investigating Heterogeneities of Live MesenchymalStromal Cells Using AI-based Label-free Imaging},
   author={Sara Imboden, Xuanqing Liu, Brandon S. Lee, Marie C. Payne, Cho-Jui Hsieh, and Neil Y.C. Lin},
-  booktitle={In submission},
-  year={2020}
+  booktitle={Published in Scientific Reports},
+  year={2021}
 }
